@@ -1,0 +1,17 @@
+data_path: ./data/
+model_path: facebook/opt-1.3b
+tokenizer_path: facebook/opt-1.3b
+
+
+output_dir: ./
+num_train_epochs: 20
+total_batch_size: 4
+
+mode: train
+seq_data: ./train_data/seq.data
+
+resource_data: ./train_data/xiaohuangji50w.conv
+
+
+e: E
+m: M
