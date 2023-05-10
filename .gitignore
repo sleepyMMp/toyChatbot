@@ -1,3 +1,5 @@
 
 train_data/seq.data
 train_data/xiaohuangji50w.conv
+data/chineseQA/p0_json/train.json
+test.ipynb
